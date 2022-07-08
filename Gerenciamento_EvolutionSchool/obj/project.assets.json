@@ -10282,11 +10282,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fernando\\Desktop\\ProjetoFinal_CodingGirls\\Gerenciamento_EvolutionSchool\\Gerenciamento_EvolutionSchool\\Gerenciamento_EvolutionSchool.csproj",
+      "projectUniqueName": "C:\\Users\\Fernando\\Desktop\\ProjetoFinal_CodingGirls\\Gerenciamento_EvolutionSchool\\ProjetoFinal_CodingGirls\\Gerenciamento_EvolutionSchool\\Gerenciamento_EvolutionSchool.csproj",
       "projectName": "Gerenciamento_EvolutionSchool",
-      "projectPath": "C:\\Users\\Fernando\\Desktop\\ProjetoFinal_CodingGirls\\Gerenciamento_EvolutionSchool\\Gerenciamento_EvolutionSchool\\Gerenciamento_EvolutionSchool.csproj",
+      "projectPath": "C:\\Users\\Fernando\\Desktop\\ProjetoFinal_CodingGirls\\Gerenciamento_EvolutionSchool\\ProjetoFinal_CodingGirls\\Gerenciamento_EvolutionSchool\\Gerenciamento_EvolutionSchool.csproj",
       "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fernando\\Desktop\\ProjetoFinal_CodingGirls\\Gerenciamento_EvolutionSchool\\Gerenciamento_EvolutionSchool\\obj\\",
+      "outputPath": "C:\\Users\\Fernando\\Desktop\\ProjetoFinal_CodingGirls\\Gerenciamento_EvolutionSchool\\ProjetoFinal_CodingGirls\\Gerenciamento_EvolutionSchool\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

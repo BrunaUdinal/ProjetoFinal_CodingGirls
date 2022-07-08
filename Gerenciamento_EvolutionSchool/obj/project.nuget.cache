@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F/tdIwDwfMcOzyJs3p5qw9q+DAfZLJrAdPbAqcES68PS/l7xjlzq0hUxg7DZakb/PpY1Ez+qN/hl5Ah+xNjJhA==",
+  "dgSpecHash": "nqh4IbDDlDV7CfHR4IM2q/UEAzK/zh9fCOXAYHV/jf5cOOotGyM9eC0PJDlrOZURlCgEusfXlaON5uDlaAeoxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fernando\\Desktop\\ProjetoFinal_CodingGirls\\Gerenciamento_EvolutionSchool\\Gerenciamento_EvolutionSchool\\Gerenciamento_EvolutionSchool.csproj",
+  "projectFilePath": "C:\\Users\\Fernando\\Desktop\\ProjetoFinal_CodingGirls\\Gerenciamento_EvolutionSchool\\ProjetoFinal_CodingGirls\\Gerenciamento_EvolutionSchool\\Gerenciamento_EvolutionSchool.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fernando\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Fernando\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

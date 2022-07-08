@@ -10,5 +10,6 @@
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>Gerenciamento_EvolutionSchool.Context.Gerenciamento_EvolutionSchool_Context</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
+    <NameOfLastUsedPublishProfile>C:\Users\Fernando\Desktop\ProjetoFinal_CodingGirls\Gerenciamento_EvolutionSchool\ProjetoFinal_CodingGirls\Gerenciamento_EvolutionSchool\Properties\PublishProfiles\GerenciamentoEvolutionSchool20220707004708 - Zip Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

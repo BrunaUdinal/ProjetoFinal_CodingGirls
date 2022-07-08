@@ -11,9 +11,8 @@ namespace Gerenciamento_EvolutionSchool.Models
 
         #region Navigation Properties
         [JsonIgnore]
-        public virtual List<Aluno>? Aluno { get; set; }
+        internal virtual List<Aluno>? Aluno { get; set; }
         #endregion
-
 
     }
 

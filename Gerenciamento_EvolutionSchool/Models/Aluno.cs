@@ -14,7 +14,7 @@ namespace Gerenciamento_EvolutionSchool.Models
 
         #region Navigation Properties
         [JsonIgnore]
-        public virtual Turma? Turma { get; set; }
+        internal virtual Turma? Turma { get;  }
         #endregion
     }
 
